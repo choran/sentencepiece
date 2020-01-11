@@ -2,4 +2,4 @@ env: tensorflow-1.14
 machine: cpu
 data:
   - source: choran/datasets/blog_corpus/1
-    destination: blogs
+    destination: blog_dirs
